@@ -1,0 +1,2 @@
+# my-bot-data
+Bot
